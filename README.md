@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaximovInk
 - 👀 I’m interested in computer graphics, game development
 - 🌱 I’m currently learning vulkan
-- 📫 t.me/maximovink
+- 📫 t.me/onvalidate
 
 <!---
 MaximovInk/MaximovInk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
